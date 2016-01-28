@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "gulp-stylus": "2.0.x",
+    "browser-sync": "~2.7.1",
+    "nib": "1.0.x"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0"
+  }
+}
